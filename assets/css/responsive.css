@@ -1,0 +1,36 @@
+/********************************************* Large Width ***********************************************/
+@media (min-width: 400px){
+    
+}
+@media (min-width: 576px){
+    
+}
+@media (min-width: 768px){
+    
+}
+@media (min-width: 992px){
+    .navbar-nav .nav-item .nav-link{
+        margin-left: 80px;
+    }
+}
+@media (min-width: 1200px){
+    
+}
+
+/********************************************* Middle Width ***********************************************/
+
+@media (max-width: 400px){
+    
+}
+@media (max-width: 576px){
+    
+}
+@media (max-width: 768px){
+    
+}
+@media (max-width: 992px){
+    
+}
+@media (max-width: 1200px){
+
+}
